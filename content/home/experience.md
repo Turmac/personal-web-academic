@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,22 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
-  description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
+  title = "Machine Learning (Intern)"
+  company = "UWinTech"
+  company_url = "http://www.uwintech.cn"
+  location = "China"
+  date_start = "2017-02-01"
+  date_end = "2017-07-31"
+  description = """Developed anomaly detection and alerting module using LSTM. Used to monitor servers and alert anomaly data in real time.
+
+  Using Keras, Tensorflow, Tornado, Apache Storm, InfluxDB, Redis"""
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
+  title = "Research Assistant"
+  company = "Texas A&M University"
   company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  location = "Texas"
+  date_start = "2017-09-01"
+  date_end = "2019-12-31"
+  description = """Developed a system for privacy preserving interactive record linkage"""
 +++
