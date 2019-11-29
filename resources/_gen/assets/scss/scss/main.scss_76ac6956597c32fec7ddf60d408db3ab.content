@@ -7518,7 +7518,8 @@ div.alert a {
 .alert-note {
   color: #12537e;
   background-color: #f6fbfe;
-  border-color: #209cee; }
+  border-color: #209cee;
+  display: none; }
 
 .alert-warning {
   color: #cd0930;
