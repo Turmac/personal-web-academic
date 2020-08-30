@@ -4,11 +4,11 @@
 title: "Synthesizing Light Field From a Single Image with Variable MPI and Two Network Fusion"
 subtitle: "SIGGRAPH Asia, 2020"
 authors: [Qinbo Li, Nima Khademi Kalantari]
-date: 2020-11-18
+date: 2020-11-18T23:33:23-06:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-18
+publishDate: 2020-11-18T23:33:23-06:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
