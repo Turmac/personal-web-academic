@@ -1,20 +1,19 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Synthesizing Light Field From a Single Image with Variable MPI and Two Network Fusion"
-subtitle: "SIGGRAPH Asia, 2020"
-authors: [Qinbo Li, Nima Khademi Kalantari]
-date: 2020-11-18T23:33:23-06:00
+title: "Synthesizing Light Field From a Single Image With Variable MPI and Two Network Fusion"
+authors: []
+date: 2020-08-30T16:52:40-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-11-18T23:33:23-06:00
+publishDate: 2020-08-30T16:52:40-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["1"]
+publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -23,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "SIGGRAPH Asia, 2020"
+summary: ""
 
 tags: []
 categories: []
@@ -52,7 +51,7 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: true
+  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
