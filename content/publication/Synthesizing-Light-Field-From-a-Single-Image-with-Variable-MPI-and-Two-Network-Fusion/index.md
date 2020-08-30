@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Synthesizing Light Field From a Single Image With Variable MPI and Two Network Fusion"
-authors: []
+authors: [Qinbo Li, Nima Khademi Kalantari]
 date: 2020-08-30T16:52:40-05:00
 doi: ""
 
@@ -13,7 +13,7 @@ publishDate: 2020-08-30T16:52:40-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["0"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
 publication: ""
@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "SIGGRAPH Asia 2020"
 
 tags: []
 categories: []
@@ -51,7 +51,7 @@ url_video:
 image:
   caption: ""
   focal_point: ""
-  preview_only: false
+  preview_only: true
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
