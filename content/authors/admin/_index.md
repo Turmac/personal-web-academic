@@ -21,9 +21,10 @@ organizations:
 bio: My research interests include deep learning, reinforcement learning, and computer vision
 
 interests:
-- Deep learning
-- Reinforcement learning
-- Computer vision
+- Computer Vision
+- Computer Graphics
+- Reinforcement Learning
+
 
 education:
   courses:
@@ -67,7 +68,11 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Department of Computer Science & Engineering at Texas A&M University, advised by Professor Yoonsuck Choe. My research interest includes Deep Learning, Reinforcement Learning and Computer Vision.
+I am a PhD student in Department of Computer Science & Engineering at Texas A&M University, advised by Professor Yoonsuck Choe. My research interest includes Computer Vision, Computer Graphics, and Reinforcement Learning using Deep Learning.
+
+Currently, I am actively looking for internship during Spring and Summer 2021.
+
+
 
 
 
