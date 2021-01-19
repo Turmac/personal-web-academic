@@ -17,8 +17,9 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+  
 [[experience]]
-  title = "Machine Learning (Intern)"
+  title = "Machine Learning Engineer (Intern)"
   company = "UWinTech"
   company_url = "http://www.uwintech.cn"
   location = "China"
@@ -36,4 +37,13 @@ date_format = "Jan 2006"
   date_start = "2017-09-01"
   date_end = "2019-12-31"
   description = """Developed a system for privacy preserving interactive record linkage"""
+
+[[experience]]
+  title = "Research Scientist (Intern)"
+  company = "Wyze"
+  company_url = "https://www.wyze.com/"
+  location = "Greater Seattle Area"
+  date_start = "2021-01-04"
+  date_end = ""
+  description = """Conduct research in Computer Vision, Deep Learning"""
 +++
