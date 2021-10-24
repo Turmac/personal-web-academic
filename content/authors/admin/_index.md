@@ -68,9 +68,8 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD student in Department of Computer Science & Engineering at Texas A&M University, advised by Professor Yoonsuck Choe. My research interest includes Computer Vision, Computer Graphics, and Reinforcement Learning using Deep Learning.
+I am a PhD candidate in Department of Computer Science & Engineering at Texas A&M University, advised by Professor Yoonsuck Choe. My research interest includes Computer Vision, Computer Graphics, and Reinforcement Learning using Deep Learning.
 
-Joining WYZE Labs as Research Scientist Intern in 2021.
 
 
 
