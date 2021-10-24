@@ -44,6 +44,6 @@ date_format = "Jan 2006"
   company_url = "https://www.wyze.com/"
   location = "Greater Seattle Area"
   date_start = "2021-01-04"
-  date_end = ""
-  description = """Conduct research in Computer Vision, Deep Learning"""
+  date_end = "2021-05-21"
+  description = """Worked on research projects in Computer Vision, Deep Learning"""
 +++
