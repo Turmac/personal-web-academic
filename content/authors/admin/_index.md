@@ -10,27 +10,27 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Student in Computer Science
+role: Research Scientist
 
 # Organizations/Affiliations
 organizations:
-- name: Texas A&M University
-  url: "https://www.tamu.edu/"
+- name: Meta
+  url: "https://about.facebook.com/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include deep learning, reinforcement learning, and computer vision
+bio: My research interests include deep learning, computer graphics, and computer vision
 
 interests:
 - Computer Vision
 - Computer Graphics
-- Reinforcement Learning
+- Deep Learning
 
 
 education:
   courses:
   - course: PhD in Computer Science
     institution: Texas A&M University
-    year: 2017 - Present
+    year: 2022
   - course: MS in Computer Science
     institution: Texas A&M University
     year: 2016
@@ -68,7 +68,7 @@ user_groups:
 - Visitors
 ---
 
-I am a PhD candidate in Department of Computer Science & Engineering at Texas A&M University, advised by Professor Yoonsuck Choe. My research interest includes Computer Vision, Computer Graphics, and Reinforcement Learning using Deep Learning.
+I am a research scientist at Meta. I am a PhD candidate in Computer Science at Texas A&M University, advised by Professor Yoonsuck Choe. I am graduating in May 2022. My research interest is solving Computer Vision and Computer Graphics problems using Deep Learning techniques. 
 
 
 

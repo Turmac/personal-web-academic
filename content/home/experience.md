@@ -40,10 +40,19 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Research Scientist (Intern)"
-  company = "Wyze"
+  company = "Wyze Labs"
   company_url = "https://www.wyze.com/"
   location = "Greater Seattle Area"
   date_start = "2021-01-04"
   date_end = "2021-05-21"
+  description = """Worked on research projects in Computer Vision, Deep Learning"""
+
+[[experience]]
+  title = "Research Scientist"
+  company = "Meta"
+  company_url = "https://about.facebook.com/"
+  location = "Greater Seattle Area"
+  date_start = "2021-02-07"
+  date_end = ""
   description = """Worked on research projects in Computer Vision, Deep Learning"""
 +++
