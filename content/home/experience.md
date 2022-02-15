@@ -54,5 +54,4 @@ date_format = "Jan 2006"
   location = "Greater Seattle Area"
   date_start = "2021-02-07"
   date_end = ""
-  description = """Worked on research projects in Computer Vision, Deep Learning"""
 +++
