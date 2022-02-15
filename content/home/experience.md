@@ -43,6 +43,6 @@ date_format = "Jan 2006"
   company = "Meta"
   company_url = "https://about.facebook.com/"
   location = "Greater Seattle Area"
-  date_start = "2021-02-07"
+  date_start = "2022-02-07"
   date_end = ""
 +++
