@@ -30,15 +30,6 @@ date_format = "Jan 2006"
   Using Keras, Tensorflow, Tornado, Apache Storm, InfluxDB, Redis"""
 
 [[experience]]
-  title = "Research Assistant"
-  company = "Texas A&M University"
-  company_url = ""
-  location = "Texas"
-  date_start = "2017-09-01"
-  date_end = "2019-12-31"
-  description = """Developed a system for privacy preserving interactive record linkage"""
-
-[[experience]]
   title = "Research Scientist (Intern)"
   company = "Wyze Labs"
   company_url = "https://www.wyze.com/"
