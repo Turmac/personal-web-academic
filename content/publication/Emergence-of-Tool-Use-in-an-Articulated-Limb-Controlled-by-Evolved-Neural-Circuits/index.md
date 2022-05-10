@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Emergence of Tool Use in an Articulated Limb Controlled by Evolved Neural Circuits"
-subtitle: "2015 International Joint Conference on Neural Networks (IJCNN)"
+subtitle: "International Joint Conference on Neural Networks (IJCNN), 2015"
 authors: [Qinbo Li, Jaewook Yoo, Yoonsuck Choe]
 date: 2015-07-27T16:14:36-06:00
 doi: ""
@@ -23,7 +23,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "2015 International Joint Conference on Neural Networks (IJCNN)"
+summary: "International Joint Conference on Neural Networks (IJCNN), 2015"
 
 tags: []
 categories: []
