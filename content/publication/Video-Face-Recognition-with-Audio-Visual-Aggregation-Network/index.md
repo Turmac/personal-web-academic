@@ -22,7 +22,7 @@ publication_short: ""
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "ICONIP 2021 (Oral presentation)"
+summary: "ICONIP 2021 (Oral)"
 
 tags: []
 categories: []
