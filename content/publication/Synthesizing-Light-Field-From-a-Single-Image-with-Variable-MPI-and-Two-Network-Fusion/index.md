@@ -33,11 +33,11 @@ featured: false
 links:
 - name: pdf
   url: https://people.engr.tamu.edu/nimak/Data/SIGASIA20_LF.pdf
-  icon_pack: fab
+  icon_pack: fas
   icon: file-pdf
 - name: paper page
   url: https://people.engr.tamu.edu/nimak/Papers/SIGAsia2020_LF/index.html
-  icon_pack: fab
+  icon_pack: far
   icon: arrow-up-right-from-square
   
 url_pdf:
