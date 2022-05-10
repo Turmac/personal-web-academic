@@ -31,11 +31,15 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-- name: Follow
+- name: pdf
+  url: https://people.engr.tamu.edu/nimak/Data/SIGASIA20_LF.pdf
+  icon_pack: fab
+  icon: file-pdf
+- name: paper page
   url: https://people.engr.tamu.edu/nimak/Papers/SIGAsia2020_LF/index.html
-#   icon_pack: fab
-#   icon: twitter
-
+  icon_pack: fab
+  icon: arrow-up-right-from-square
+  
 url_pdf:
 url_code:
 url_dataset:
