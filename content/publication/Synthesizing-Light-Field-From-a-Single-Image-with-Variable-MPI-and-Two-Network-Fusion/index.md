@@ -31,7 +31,7 @@ featured: false
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.
 links:
-# - name: Follow
+- name: Follow
   url: https://people.engr.tamu.edu/nimak/Papers/SIGAsia2020_LF/index.html
 #   icon_pack: fab
 #   icon: twitter
