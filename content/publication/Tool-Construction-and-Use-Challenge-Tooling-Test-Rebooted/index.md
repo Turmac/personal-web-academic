@@ -16,13 +16,13 @@ publishDate: 2015-01-28T23:33:23-06:00
 publication_types: ["0"]
 
 # Publication name and optional abbreviated publication name.
-publication: "AAAI 2015"
+publication: "AAAI 2015 (poster)"
 publication_short: ""
 
 abstract: ""
 
 # Summary. An optional shortened abstract.
-summary: "AAAI 2015"
+summary: "AAAI 2015 (poster)"
 
 tags: []
 categories: []
