@@ -37,8 +37,8 @@ links:
   icon: file-pdf
 - name: paper page
   url: https://people.engr.tamu.edu/nimak/Papers/SIGAsia2020_LF/index.html
-  icon_pack: fas
-  icon: arrow-up-right-from-square
+  icon_pack: far
+  icon: fa-arrow-up-right-from-square
   
 url_pdf:
 url_code:
